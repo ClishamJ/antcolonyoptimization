@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-This implementation of ACO solves the graph coloring problem, and offers a variety of options in regards to the tests performed.
+This implementation of ACO solves the [graph coloring problem](https://en.wikipedia.org/wiki/Graph_coloring), and offers a variety of options in regards to the tests performed.
 
 ### Prerequisites
 
